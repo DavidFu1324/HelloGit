@@ -1,5 +1,5 @@
 #include <iostream>
 int main() {
-    std::cout << "Hello GitHub from VS Code!" << std::endl;
+    std::cout << "Hello GitHub from VS Code! yeah~" << std::endl;
     return 0;
 }
